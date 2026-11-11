@@ -1,8 +1,7 @@
 # Ecosystem Navigator
 
 A tool to visualise and explore simple (business) ecosystems.
-The tool was built to provide a low-barrier tool for students to explore business ecosystems.
-It opens within the browser.
+The tool was built to provide a low-barrier entry for students to explore business ecosystems.
 
 ## Features
 
